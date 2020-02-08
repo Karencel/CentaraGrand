@@ -1,0 +1,38 @@
+/*Navbar*/
+nav a img{
+	width: 200px;
+}
+.nav-link{
+	font-family: 'Work Sans', sans-serif;
+	margin: 0 100px 0 100px;
+}
+.nav-link:hover{
+	text-decoration: underline;
+	color:#87000;
+}
+/*main*/
+.card{
+	margin: 0 0 0 0px;
+}
+#imagen{
+	width: 50%;
+}
+.card-title, .card-text, .titulo{
+	font-family: 'Work Sans', sans-serif;
+}
+.card-title, .titulo{
+	font-weight: bold;
+	color: #c81912;
+}
+/*form{
+	margin: 0 0 0 450px;
+}*/
+/*footer*/
+.text-uppercase{
+	color: #c81912;
+}
+.list-unstyled li a img:hover{
+	width: 60px;
+}
+
+
